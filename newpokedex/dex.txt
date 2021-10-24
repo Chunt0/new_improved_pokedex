@@ -1,0 +1,55 @@
+27
+1 poke1 type1
+move1 move2 move3 move4
+2 poke2 type1
+move1 move2 move3 move4
+3 poke3 type1
+move1 move2 move3 move4
+4 poke4 type1
+move1 move2 move3 move4
+5 poke5 type5
+move1 move2 move3 move4
+6 poke6 type6
+move1 move2 move3 move4
+7 poke7 type7
+move1 move2 move3 move4
+8 poke8 type8
+move1 move2 move3 move4
+9 poke9 type9
+move1 move2 move3 move4
+10 poke10 type10
+move1 move2 move3 move4
+11 poke11 type11
+move1 move2 move3 move4
+12 poke12 type12
+move1 move2 move3 move4
+13 poke13 type13
+move1 move2 move3 move4
+14 poke14 type14
+move1 move2 move3 move4
+15 poke15 type15
+move1 move2 move3 move4
+16 poke16 type16
+move1 move2 move3 move4
+17 caia dog
+bark bite hop wrestle
+18 megan girlfriend
+study kick_butt snuggle laugh
+19 chris man
+code punch run sleep
+20 chicken chicken
+cluck brood peck cuddle
+21 hen chicken
+flap cluck run bathe
+22 fluffy chicken
+run flap sit stare
+23 goldie chicken
+peck brood flap sleep
+24 nella cat
+paw_swipe hiss growl run
+25 pumpkin cat
+cuddle meow run nothing
+26 sadrfg awerf
+asdrg awergf aedsrg awerg
+72 rusty geriatric
+ski forget microwave bread
